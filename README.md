@@ -1,6 +1,6 @@
 > - # MAC-SOFTWARE
 >
->   Sharing some softwares for MAC Apple Chip
+>   Sharing Some Softwares for MAC Apple Chip
 >
 >   ## 01	Navicat for MAC
 >
